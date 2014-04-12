@@ -2,10 +2,6 @@
 
 [http://www.github.com/goschool/free_course](http://www.github.com/goschool/free_course)
 
-## WIFI
-network: Galvanize 1.0 (or Galvanize 1.0 fast)
-password: (on board)
-
 ## Agenda
 Agenda
 

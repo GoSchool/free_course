@@ -9,11 +9,11 @@ password: (on board)
 ## Agenda
 Agenda
 
--9:00 - 9:15 - Meet and Greet/Introductions
--9:15 - 9:20 - Brief overview of material we will cover
--9:20 - 11:00 - Training begins!
--11:00 - 11:15 - Take a brief break
--11:15 - 1:00 - Continue training
+* 9:00 - 9:15 - Meet and Greet/Introductions
+* 9:15 - 9:20 - Brief overview of material we will cover
+* 9:20 - 11:00 - Training begins!
+* 11:00 - 11:15 - Take a brief break
+* 11:15 - 1:00 - Continue training
 
 ## About us
 * Cory LaNou
